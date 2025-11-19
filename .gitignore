@@ -1,18 +1,48 @@
-.gradle
+# Katalon Studio specific
+/bin/
+/Libs/
+/Reports/
+/settings/internal/
+/.settings/
 
-bin
+# Gradle
+.gradle/
+/build/
 
-Reports
+# Logs
+*.log
 
-Libs
+# Temporary files
+*.tmp
+*.temp
 
-output
+# OS-specific
+.DS_Store
+Thumbs.db
 
-!output/.gitkeep
-build
+# IDE specific (optional)
+*.iml
+.idea/
+.vscode/
 
-.classpath
+# Java / JVM
+*.class
+*.jar
+*.war
+*.ear
 
-.project
+# Katalon console output folder
+console.properties
 
-.cache
+# Katalon generated testOps ID
+testops.properties
+
+# Katalon downloads folder
+/Downloads/
+
+# Katalon Plugin generated folders
+/Plugins/
+
+# Keystore files (optional, if sensitive)
+*.keystore
+*.jks

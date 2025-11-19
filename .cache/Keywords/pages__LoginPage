@@ -1,0 +1,86 @@
+{
+  "keywordFileContentHash": "598DAD1B30FD326D6F6038E171C46CBE",
+  "keywordClasses": [
+    {
+      "name": "pages.LoginPage",
+      "keywordMethods": [
+        {
+          "name": "enterUsername",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "enterPassword",
+          "parameters": [
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickLogin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "login",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "pass",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

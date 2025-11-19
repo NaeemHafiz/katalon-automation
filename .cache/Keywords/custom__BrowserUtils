@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "97B5EF3831696CE603CCFD2005846EDC",
+  "keywordClasses": [
+    {
+      "name": "custom.BrowserUtils",
+      "keywordMethods": [
+        {
+          "name": "openAndMaximize",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
