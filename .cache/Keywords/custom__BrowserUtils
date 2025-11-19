@@ -6,16 +6,14 @@
       "keywordMethods": [
         {
           "name": "openAndMaximize",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "closeBrowser",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

@@ -12,7 +12,7 @@ CustomKeywords.'custom.BrowserUtils.openAndMaximize'()
 LoginPage login = new LoginPage()
 login.login('John Doe', 'ThisIsNotAPassword')
 // ----- ASSERTION -----
-//WebUI.verifyElementPresent(findTestObject('Dashboard/lbl_Appointment'), 10)
+WebUI.verifyElementPresent(findTestObject('Appointment/btn_BookAppointment'), 10)
 
 // Close browser using keyword
 CustomKeywords.'custom.BrowserUtils.closeBrowser'()

@@ -29,7 +29,7 @@ CustomKeywords.'custom.BrowserUtils.openAndMaximize'()
 
 LoginPage login = new LoginPage()
 login.login('John Doe', 'ThisIsAPassword')
-//WebUI.verifyElementText(findTestObject('Login/lbl_Error'), 'Invalid username or password!')
+WebUI.verifyElementText(findTestObject('Appointment/ErrorMessage'), 'Login failed! Please ensure the username and password are valid.')
 
 
 // Close browser using keyword

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_BookAppointment</name>
+   <name>ErrorMessage</name>
    <tag></tag>
-   <elementGuidId>7237b74b-8015-4aca-b633-f49197c9f481</elementGuidId>
+   <elementGuidId>5a9a237d-e201-45eb-8c00-67338afeaf66</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[text()='Book Appointment']</value>
+         <value>//p[text()='Login failed! Please ensure the username and password are valid.']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
